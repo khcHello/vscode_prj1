@@ -5,6 +5,6 @@ public class test {
     public static void main(String[] args) {
         
 
-        System.out.println("Hello, VS Code");
+        System.out.println("Hello, VS Code 2");
     }
 }
