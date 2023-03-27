@@ -13,5 +13,6 @@ public class test {
         System.out.println("깃허브 유저 체크1");
         System.out.println("깃허브 유저 체크2");
         System.out.println("깃허브 유저 체크3");
+        System.out.println("verify test1");
     }
 }
