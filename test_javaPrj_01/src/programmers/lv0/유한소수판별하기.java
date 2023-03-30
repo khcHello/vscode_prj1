@@ -2,6 +2,9 @@ package src.programmers.lv0;
 
 public class 유한소수판별하기 {
     
+    private 유한소수판별하기(){}
+
+
     public void Solution() throws Exception{
         
         int a = 12;

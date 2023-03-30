@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 public class 겹치는선분의길이 {
     
+    private 겹치는선분의길이(){}
+
     public void Solution() throws Exception{
         
         // int[][] lines = {{0, 1}, {2, 5}, {3, 9}};

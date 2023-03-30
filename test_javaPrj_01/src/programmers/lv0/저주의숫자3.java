@@ -2,6 +2,8 @@ package src.programmers.lv0;
 
 public class 저주의숫자3 {
     
+    private 저주의숫자3(){}
+
     public void Solution() throws Exception{
 
         int n = 40;

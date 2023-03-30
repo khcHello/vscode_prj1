@@ -6,6 +6,8 @@ import java.util.List;
 
 public class 특이한정렬 {
 
+    private 특이한정렬(){}
+
     public void Solution() throws Exception{
         
         int[] numlist = {1, 2, 3, 4, 5, 6};

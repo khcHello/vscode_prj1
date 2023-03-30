@@ -1,10 +1,10 @@
 package src.programmers.lv0;
 
-import java.util.Arrays;
-
 public class 평행 {
 
+    private 평행(){}
 
+    @SuppressWarnings("unused")
     public void Solution() throws Exception{
         
         // 기울기

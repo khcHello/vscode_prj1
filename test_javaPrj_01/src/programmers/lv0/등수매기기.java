@@ -6,6 +6,7 @@ import java.util.List;
 
 public class 등수매기기 {
 
+    private 등수매기기(){}
 
 
     public void Solution() throws Exception{
