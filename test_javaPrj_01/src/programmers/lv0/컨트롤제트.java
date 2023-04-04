@@ -1,7 +1,5 @@
 package src.programmers.lv0;
 
-import java.util.Arrays;
-
 public class 컨트롤제트 {
     
     private 컨트롤제트(){
