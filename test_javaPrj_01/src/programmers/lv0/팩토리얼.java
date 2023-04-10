@@ -1,7 +1,5 @@
 package src.programmers.lv0;
 
-import src.test;
-
 public class 팩토리얼 {
     
     private 팩토리얼(){
