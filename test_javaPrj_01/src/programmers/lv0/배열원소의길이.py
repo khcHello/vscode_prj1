@@ -22,11 +22,19 @@ def 배열원소의길이():
 
     print(newArr)
 
+    
     # 다른사람 아이디어 1
     # return [len(str) for str in strlist]
 
     # 다른사람 아이디어 2
     # return list(map(len, strlist))
+
+    # 다른사람 아이디어 3
+    # answer = []
+    # [answer.append(len(i)) for i in strlist]
+    # return answer
+    
+
 
     pass
 
