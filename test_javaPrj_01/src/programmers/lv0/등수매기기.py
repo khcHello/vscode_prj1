@@ -1,22 +1,27 @@
 
+# from 등수매기기 import List
+
+
 class 등수매기기:
 
     def __init__(self) -> None:
 
         score = [[80, 70], [70, 80], [30, 50], [90, 100], [100, 90], [100, 100], [10, 30]]
 
-        studentList = []
+        # Python Generic Type 선언법
+        studentList:list[Student] = list()
 
-        for i in range(len(score)):
+        for tempScore in score:
             
-            s = Student(score[i][0] + score[i][1])
+            s = Student(tempScore[0] + tempScore[1])
+            
             studentList.append(s)
+            
+            for student in studentList:
 
-            for j in range(len(studentList)):
-
-                if s.totalScore > studentList[j].totalScore:
-                    studentList[j].rank = studentList[j].rank+1
-                elif s.totalScore == studentList[j].totalScore:
+                if s.totalScore > student.totalScore:
+                    student.rank = student.rank+1
+                elif s.totalScore == student.totalScore:
                     pass
                 else:
                     s.rank = s.rank + 1
