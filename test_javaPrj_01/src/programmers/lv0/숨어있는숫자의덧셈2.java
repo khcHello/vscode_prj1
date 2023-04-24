@@ -1,4 +1,4 @@
-package src.programmers.lv0;
+package programmers.lv0;
 
 public class 숨어있는숫자의덧셈2 {
     private 숨어있는숫자의덧셈2(){

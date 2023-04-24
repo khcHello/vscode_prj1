@@ -1,4 +1,4 @@
-package src.programmers.lv0;
+package programmers.lv0;
 
 public class 다항식더하기 {
     private 다항식더하기(){

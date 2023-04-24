@@ -1,4 +1,4 @@
-package src.programmers.lv0;
+package programmers.lv0;
 
 public class 삼각형의완성조건2 {
     
