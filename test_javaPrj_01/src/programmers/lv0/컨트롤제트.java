@@ -11,7 +11,6 @@ public class 컨트롤제트 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         // String s = "1 2 Z 3";

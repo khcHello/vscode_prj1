@@ -13,7 +13,6 @@ public class 배열원소의길이 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         String[] strlist = {"We", "are", "the", "world!"};

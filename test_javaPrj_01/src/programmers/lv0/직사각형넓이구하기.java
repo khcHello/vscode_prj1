@@ -13,7 +13,6 @@ public class 직사각형넓이구하기 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         //밑변*높이

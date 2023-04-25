@@ -4,7 +4,6 @@ public class 외계어사전 {
     
     private 외계어사전(){}
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
         
 

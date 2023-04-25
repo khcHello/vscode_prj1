@@ -11,7 +11,6 @@ public class 최댓값만들기1 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
         int[] numbers = new int[]{1, 5, 2, 4, 6, 5};
 

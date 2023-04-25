@@ -9,7 +9,6 @@ public class 다항식더하기 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         String polynomial = "3x + 7 + x + 2";

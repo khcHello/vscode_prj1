@@ -9,7 +9,6 @@ public class 최댓값만들기2 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         // System.out.println(-10*10);

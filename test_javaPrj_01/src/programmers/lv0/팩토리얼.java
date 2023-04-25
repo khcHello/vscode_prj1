@@ -11,7 +11,6 @@ public class 팩토리얼 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         int n = 7;

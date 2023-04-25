@@ -12,7 +12,6 @@ public class 안전지대 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
         
         // int[][] board = {{0, 0, 0, 0, 0}, {0, 0, 0, 0, 1}, {0, 0, 0, 0, 1}, {0, 0, 0, 0, 0}, {0, 0, 0, 0, 0}};

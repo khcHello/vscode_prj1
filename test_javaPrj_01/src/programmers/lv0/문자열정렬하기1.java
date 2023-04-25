@@ -13,7 +13,6 @@ public class 문자열정렬하기1 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         String my_string = "hi12392";

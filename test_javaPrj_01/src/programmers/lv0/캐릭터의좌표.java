@@ -61,7 +61,6 @@ public class 캐릭터의좌표 {
 
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         // String[] keyinput = {"left", "right", "up", "right", "right"};

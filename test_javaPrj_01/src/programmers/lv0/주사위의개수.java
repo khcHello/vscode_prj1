@@ -11,7 +11,6 @@ public class 주사위의개수 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
         int[] box = {10, 8, 6};
         int n = 3;

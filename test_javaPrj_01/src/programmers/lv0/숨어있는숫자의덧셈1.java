@@ -13,7 +13,6 @@ public class 숨어있는숫자의덧셈1 {
         }
     }
 
-    @SuppressWarnings("unused")
     public void Solution() throws Exception{
 
         String my_string = "aAb1B2cC34oOp";
