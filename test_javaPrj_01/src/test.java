@@ -15,5 +15,6 @@ public class test {
         System.out.println("verify test2");
         System.out.println("verify test3");
         System.out.println("verify new test1");
+        System.out.println("Web 확인");
     }
 }
